@@ -1,0 +1,35 @@
+p{
+    font-size: 90px;
+    text-align: center;
+    width: 221px;
+    padding: 55px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #050505E5;
+    color: white;
+    box-shadow: 8px 9px 22px 1px #00000099;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+body{
+    background: linear-gradient(to right, #f4c430, #e25822, #f4c430);
+}
+
+.clock-father{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width: 850px;
+    padding: 35px;
+    background: linear-gradient(to right, #f9d423, #ff4e50, #f9d423);
+    margin: 13% auto;
+    border-radius: 8px;
+}
+
+h6{
+    color: white;
+}
